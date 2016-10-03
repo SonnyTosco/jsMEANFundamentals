@@ -138,12 +138,12 @@
 
 //Write two functions (stringReturnOne and stringReturnTwo) that each return
 // a different hard-coded string.
-// function stringReturnOne(){
-//   return 'Haaaa';
-// }
-// function stringReturnTwo(){
-//   return 'Huh';
-// }
+function stringReturnOne(){
+  return 'Haaaa';
+}
+function stringReturnTwo(){
+  return 'Huh';
+}
 // console.log(stringReturnOne());
 // console.log(stringReturnTwo());
 
