@@ -58,3 +58,13 @@ function Ninja(name, age, prevOccupation) {
 }
 var Speros = new Ninja("Speros", 24, "MBA");
 Speros.introduce();
+
+// Print out
+// Hi my name is Speros. I used to be a MBA and now I'm a Ninja!
+// this is a private method for Speros
+// Ninja {
+//   name: 'Speros',
+//   age: 24,
+//   prevOccupation: 'MBA',
+//   introduce: [Function] }
+// This is a private variable
