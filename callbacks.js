@@ -143,7 +143,7 @@
 // printResult(function returnFive(){ return 5 })  // this should print "5"
 
 function each(arr, callback) {
-  // loop through the array
+  var alert;
   for(var i = 0; i < arr.length; i++) {
     callback(arr[i]); // invoking the callback many times... delegation!
   }
